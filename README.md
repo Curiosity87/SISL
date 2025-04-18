@@ -163,4 +163,4 @@ This is what appears in your OBS Browser Source, featuring:
 
 ## License
 
-MIT License
+MIT License# SISL
